@@ -1,4 +1,4 @@
-// Autores: [Nome do Aluno 1] e [Nome do Aluno 2]
+// Autores: Renan Cardoso Portela dos Santos e Fabrício Cerqueira Almeida
 // Projeto Pratico AV2: Sistema Copa Universitaria 2026
 // Disciplina: BES005 - Logica de Programacao e Algoritmos
 // UCSal - Universidade Catolica do Salvador
@@ -49,9 +49,9 @@ public class CopaUniversitaria2026 {
         scanner.close();
     }
 
-    // =================================================================
-    // FUNCOES OBRIGATORIAS (conforme especificacao do projeto)
-    // =================================================================
+    // =========================
+    // FUNCOES OBRIGATORIAS 
+    // =========================
 
     /**
      * Recebe o numero de inscricao da selecao (1 a 5) e retorna o nome.
